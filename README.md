@@ -6,7 +6,14 @@
 
 #### A guide covering the Clojure programming language including the applications and tools that will make you a better and more efficient Clojure developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121819295-1ad46600-cc41-11eb-8f8a-1439b6765ea6.png">
+  <br />
+</p>
+
+# Clojure Learning Resources
 
 [Clojure](https://clojure.org/) is a dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
 
@@ -26,7 +33,7 @@
 
 [Clojure Style Guide](https://guide.clojure.style)
 
-## Tools
+# Clojure Tools, Libraries, and Frameworks
 
 [clojureVSCode](https://github.com/avli/clojureVSCode) is an extension that provides Clojure and ClojureScript support for Visual Studio Code.
 
@@ -51,3 +58,12 @@
 [Arcadia](https://github.com/arcadia-unity/Arcadia) is an integration of the Clojure Programming Language with the Unity 3D game engine.
 
 [Lacinia](https://lacinia.readthedocs.io/en/latest/) is a full GraphQL implementation in pure Clojure.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Clojure-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
