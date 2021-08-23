@@ -53,7 +53,7 @@
 
 [Leiningen](https://leiningen.org/) is an extensible build tool that provides dependency management, REPL support, testing, packaging, deployment, and many other capabilities.
 
-[Boot](https://boot-clj.github.io/) is a build tooling for Clojure: instead of a special-purpose DSL, Boot supplies abstractions and libraries you can use to automate nearly any build scenario with the full power of the Clojure language.
+[Boot](https://github.com/boot-clj/boot) is a Clojure build framework and ad-hoc Clojure script evaluator. Boot provides a runtime environment that includes all of the tools needed to build Clojure projects from scripts written in Clojure.
 
 [Clojars](https://clojars.org/) is a Clojure-focused Maven repository.
 
@@ -80,8 +80,6 @@
 [Onyx](https://github.com/onyx-platform/onyx) is a distributed, masterless, high performance, fault tolerant data processing system.
 
 [Lumo ](https://github.com/anmonteiro/lumo) is a standalone ClojureScript environment that runs on Node.js and the V8 JavaScript engine. It provides out-of-the-box access to the entire Node.js ecosystem, including a ClojureScript REPL.
-
-[Boot](https://github.com/boot-clj/boot) is a Clojure build framework and ad-hoc Clojure script evaluator. Boot provides a runtime environment that includes all of the tools needed to build Clojure projects from scripts written in Clojure.
 
 [Arcadia](https://github.com/arcadia-unity/Arcadia) is an integration of the Clojure Programming Language with the Unity 3D game engine.
 
